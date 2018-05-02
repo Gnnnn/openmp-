@@ -1,0 +1,33 @@
+﻿生成启动时间为 2011/11/22 0:33:07。
+     1>项目“F:\Reference\并行计算\OpenMP\例子\一个简单的例子\一个简单的例子\一个简单的例子.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\一个简单的例子.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\一个简单的例子.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Test02.cpp Test03.cpp
+         Test03.cpp
+         Test02.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Reference\并行计算\OpenMP\例子\一个简单的例子\Debug\一个简单的例子.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\一个简单的例子.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Reference\并行计算\OpenMP\例子\一个简单的例子\Debug\一个简单的例子.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Reference\并行计算\OpenMP\例子\一个简单的例子\Debug\一个简单的例子.lib" /MACHINE:X86 "Debug\一个简单的例子.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         Debug\Test02.obj
+         Debug\Test03.obj
+         "Debug\一个简单的例子.obj"
+         LINK : 没有找到 F:\Reference\并行计算\OpenMP\例子\一个简单的例子\Debug\一个简单的例子.exe 或上一个增量链接没有生成它；正在执行完全链接
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\一个简单的例子.exe.embed.manifest" /manifest "Debug\一个简单的例子.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         一个简单的例子.vcxproj -> F:\Reference\并行计算\OpenMP\例子\一个简单的例子\Debug\一个简单的例子.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\一个简单的例子.unsuccessfulbuild”。
+         正在对“Debug\一个简单的例子.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Reference\并行计算\OpenMP\例子\一个简单的例子\一个简单的例子\一个简单的例子.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04

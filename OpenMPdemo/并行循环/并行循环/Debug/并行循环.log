@@ -1,0 +1,14 @@
+﻿生成启动时间为 2011/11/24 13:43:19。
+     1>项目“F:\Reference\并行计算\OpenMP\例子\并行循环\并行循环\并行循环.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\并行循环.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\并行循环.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CopyInTest.cpp
+         CopyInTest.cpp
+     1>f:\reference\并行计算\openmp\例子\并行循环\并行循环\copyintest.cpp(16): error C3056: “Num01”: 符号所在范围与“threadprivate”指令所在范围不同
+     1>已完成生成项目“F:\Reference\并行计算\OpenMP\例子\并行循环\并行循环\并行循环.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.39
